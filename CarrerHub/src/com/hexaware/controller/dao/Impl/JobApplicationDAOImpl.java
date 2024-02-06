@@ -95,6 +95,6 @@ public class JobApplicationDAOImpl implements JobApplicationDAO {
         return jobApplications;
     }
 
-    // Additional methods for job application operations if needed
+   
 }
 
